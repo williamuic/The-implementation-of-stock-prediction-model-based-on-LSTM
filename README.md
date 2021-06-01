@@ -1,5 +1,5 @@
 # FinancialComputingGroup11
-## The Re-implement of stock prediction model based on LSTM
+## The implementation of stock prediction model based on LSTM
 
 ___
 
